@@ -1,4 +1,4 @@
-# PLMHealthcareLMS
+# UniversityHealthcareLMS
 Local version
 
-A Learning Management System for nursing students at PLM.
+A Learning Management System for nursing students.
